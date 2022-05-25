@@ -1,4 +1,4 @@
-name: RaphaCostXP
+name: RaphaXPCost
 version: '${project.version}'
-main: com.github.idimabr.RaphaCostXP
+main: com.github.idimabr.RaphaXPCost
 authors: [ iDimaBR ]
