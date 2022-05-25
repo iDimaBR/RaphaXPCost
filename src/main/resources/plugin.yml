@@ -1,0 +1,4 @@
+name: RaphaCostXP
+version: '${project.version}'
+main: com.github.idimabr.RaphaCostXP
+authors: [ iDimaBR ]
